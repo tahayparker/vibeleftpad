@@ -46,9 +46,7 @@ pytest tests/
 
 Will not work half the time :) Enjoy!
 
-## Stars (cuz why not)
-
-## Star History
+## Star History (cuz why not)
 
 <a href="https://www.star-history.com/#tahayparker/vibeleftpad&Date">
  <picture>
